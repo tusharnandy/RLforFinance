@@ -58,7 +58,7 @@ Some of the applications include:
 	6. **Using XGBoost for Analysing Feature Importance**
 		- A benefit of using gradient boosting is that after the boosted trees are constructed, it is relatively straightforward to retrieve importance scores for each attribute.
 		- Importance is calculated for a single decision tree by the amount that each attribute split point improves the performance measure, weighted by the number of observations the node is responsible for. The performance measure may be the purity (Gini index) used to select the split points or another more specific error function.
-3. **Multiple-Stock trading using FinRL Library**
+3. **Multiple-Stock trading using FinRL Library ([notebook](FinRL_stock_trading.ipynb))**
 	
 	The problem was to design an automated trading solution for multiple stock trading. The stock trading process is modeled as a Markov Decision Process (MDP) and then the trading goal is formulated as a maximization problem.
 
