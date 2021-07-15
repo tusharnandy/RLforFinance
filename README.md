@@ -19,6 +19,7 @@
 	2. [Types of RL algorithms](https://spinningup.openai.com/en/latest/spinningup/rl_intro2.html)
 	3. [Introduction to Policy Optimization](https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html)
 3. **Applications of ML to Finance ([Slides](https://poseidon01.ssrn.com/delivery.php?ID=240069002121077002085006120118071075017073054032033092074008012074008113004026066069126000025041062008124018121071119092113123007080012013002115090127024028096093046036044017081025073029001025104113113070116111120067075098116101122015125110006099104&EXT=pdf&INDEX=TRUE))**
+
 Some of the applications include:
 	1. Price Prediction
 	2. Hedging
