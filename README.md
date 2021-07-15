@@ -76,4 +76,4 @@ Some of the applications include:
 	
 	The Results of Back-Testing are as follows: 
 
-![Cumulative Returns.png](cumulative_rewards.png)
+![Cumulative Returns.png](:/cumulative_rewards.png)
