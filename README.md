@@ -45,6 +45,7 @@ Some of the applications include:
 		5. Schaff Trend Cycle
 		6. Momentum
 	2. **Used Fourier Transform for denoising the data**
+
 		This was done by reconstructing the signal using lesser components
 	3. **ARIMA as a feature**
 		This is a technique for predicting time series data. We will show how to use it, and although ARIMA will not serve as our final prediction, we will use it as a technique to denoise the stock a little and to (possibly) extract some new patterns or features.
