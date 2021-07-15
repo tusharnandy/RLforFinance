@@ -21,12 +21,12 @@
 3. **Applications of ML to Finance ([Slides](https://poseidon01.ssrn.com/delivery.php?ID=240069002121077002085006120118071075017073054032033092074008012074008113004026066069126000025041062008124018121071119092113123007080012013002115090127024028096093046036044017081025073029001025104113113070116111120067075098116101122015125110006099104&EXT=pdf&INDEX=TRUE))**
 
 Some of the applications include:
+
 	1. Price Prediction
 	2. Hedging
 	3. Portfolio Construction
 	4. Risk Analysis
 	5. Outlier Detection
-	
 	Apart from those mentioned above, techniques such as kernels, NLP, feature analysis, and recommendation systems have also been used lately in the world of Finance.
 
 4. **Overview of Advanced RL in Finance ([Lectures by NYU](https://github.com/englianhu/Coursera-Overview-of-Advanced-Methods-of-Reinforcement-Learning-in-Finance))**
