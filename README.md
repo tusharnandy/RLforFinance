@@ -2,9 +2,19 @@
 ## Summer of Code '21
 
 ### Brief
--- add brief here--
-### Contents
---add contents--
+
+RL is defined as:
+
+A learning process in which an agent interacts with its environment through trial and error, to reach a defined goal in such a way that the agent can maximize the number of rewards, and minimize the penalties given by the environment for each correct step made by the agent to reach its goal.
+
+Bots powered with reinforcement learning can learn from the trading and stock market environment by interacting with it. They use trial and error to optimize their learning strategy based on the characteristics of each and every stock listed in the stock market.
+
+There are a few big advantages to this approach:
+
+- saves time
+- trading bots can trade on a 24hrs timeline basis
+- trading gets diversified across all industries
+
 
 ### A. Learning Phase
 1. __Reinforcement Learning Lectures by David Silver__
