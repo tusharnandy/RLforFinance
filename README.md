@@ -34,9 +34,9 @@ Some of the applications include:
 ### B. Application Phase
 1. **Following the tutorials from [pythonprogramming.net](https://pythonprogramming.net/q-learning-reinforcement-learning-python-tutorial/)**
 	1. [Implemented model free control using Q-learning on an OpenAI environment](/Q-Learning/vid1.py) 
-	2. Analysed the policy using average reward graphs
-	3. Developed a custom environment from scratch and solved it using Q-learning
-	4. Applied Convolution Neural Networks (CNN) as function approximator (or what is know as a "[Deep Q Network](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)")
+	2. [Analysed the policy using average reward graphs](/Q-Learning/vid3.py)
+	3. [Developed a custom environment from scratch and solved it using Q-learning](/Q-Learning/vid4.py)
+	4. [Applied Convolution Neural Networks (CNN) as function approximator](/Q-Learning/vid6.py) (or what is know as a "[Deep Q Network](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)")
 2. **Feature extraction of stock price data (The notebook can be found here)**
 	1. **Derived technical indicators from stock data such as:**
 		1. Simple Moving Average (7-day and 21-day)
