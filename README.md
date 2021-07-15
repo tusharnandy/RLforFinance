@@ -48,8 +48,10 @@ Some of the applications include:
 
 		This was done by reconstructing the signal using lesser components
 	3. **ARIMA as a feature**
+		
 		This is a technique for predicting time series data. We will show how to use it, and although ARIMA will not serve as our final prediction, we will use it as a technique to denoise the stock a little and to (possibly) extract some new patterns or features.
 	4. **Autoencoder for feature extraction**
+		
 		Developed an encoder-decoder architecture with latent dimension = 4 to extract high-level features from the data
 	5. **PCA for high-level features**
 	6. **Using XGBoost for Analysing Feature Importance**
