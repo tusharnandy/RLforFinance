@@ -12,8 +12,8 @@
 	- The lectures are [here](https://www.davidsilver.uk/teaching/).. 
 	- The pattern of topics is the same as from [this book](http://www.incompleteideas.net/book/RLbook2020.pdf) by Sutton and Barto.
 	- As a fun task, I tried solving two interesting problems from it:
-		- [Iterative Policy Evaluation in Small Gridworld]()
-		- [Using Dynamic Programming to solve Jack's Car Rental Problem]()
+		- [Iterative Policy Evaluation in Small Gridworld](gridwrld.py)
+		- [Using Dynamic Programming to solve Jack's Car Rental Problem](/jackscarrental-master/)
 2. **OpenAI SpinnigUp Blogs**
 	1. [Key Concepts in RL](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html)
 	2. [Types of RL algorithms](https://spinningup.openai.com/en/latest/spinningup/rl_intro2.html)
