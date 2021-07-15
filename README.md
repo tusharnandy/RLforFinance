@@ -37,7 +37,7 @@ Some of the applications include:
 	2. [Analysed the policy using average reward graphs](/Q-Learning/vid3.py)
 	3. [Developed a custom environment from scratch and solved it using Q-learning](/Q-Learning/vid4.py)
 	4. [Applied Convolution Neural Networks (CNN) as function approximator](/Q-Learning/vid6.py) (or what is know as a "[Deep Q Network](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)")
-2. **Feature extraction of stock price data ([The notebook can be found here]("Fin AI feature extraction.ipynb"))**
+2. **Feature extraction of stock price data ([The notebook can be found here](Fin_AI_feature_extraction.ipynb))**
 	1. **Derived technical indicators from stock data such as:**
 		1. Simple Moving Average (7-day and 21-day)
 		2. Exponential Moving Average(12-day and 26-day)
